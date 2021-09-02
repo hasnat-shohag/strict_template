@@ -1,0 +1,25 @@
+@media (max-width: 556px){
+    #banner .top h1{
+        font-size: 90px;
+    }
+    #banner .top h1::before {
+        width: 65%;
+        transform: translateX(26%);
+    }
+    #banner .top {
+        padding: 90px 0px;
+    }
+}
+@media (max-width: 768px){
+    #footer .content{
+        flex-direction: column;
+    }
+    #footer .content p{
+        line-height: 2;
+    }
+
+
+    #design .bottom .col-md-4{
+        padding: 10px 0px;
+    }
+}
