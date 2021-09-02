@@ -124,10 +124,10 @@
 
 #portfolio{
     text-align: center;
+    background-color: #f6f9f9;
 }
 
 #portfolio .top{
-    background-color: #f6f9f9;
     padding: 80px 0px;
 }
 #portfolio .gallery{
